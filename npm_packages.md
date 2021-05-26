@@ -17,4 +17,4 @@ I also learned how to commit to git via terminals such as GitBash.
 * Use `$git commit -m` when you want to do your commit. -m is the message of the commit. 
 
 Lastly, I learned about Markdown today.
-<img src="sun.jpg" alt="Happy Sun" style="height: 500px, width: auto">
+<img src="sun.jpg" alt="Happy Sun" style="height: 250px, width: auto">
