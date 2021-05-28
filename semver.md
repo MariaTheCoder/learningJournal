@@ -1,6 +1,6 @@
 # May 2021
 
-## Wednesday, 26th
+## 26
 
 ### SemVer
 Today I learned about Semantic Versioning and what different notations regarding versions of dependencies of a given npm packages mean.

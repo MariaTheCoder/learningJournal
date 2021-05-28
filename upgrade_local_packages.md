@@ -1,7 +1,7 @@
 
 # May 2021
 
-## Thursday 27th
+## 27
 
 ### Check for updates and update installed dependencies
 Today I learned how to check in terminal whether there updated versions of installed packages have been released. By writing the following command, one should receive a table of outdated npm packages currently installed.  

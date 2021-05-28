@@ -1,7 +1,7 @@
 
 # May 2021
 
-## Tuesday, 25th
+## 25
 
 Today I learned about SCM/VCM (Source/Version Controle Management). Since a node_module folder can quickly take up many MB, the node_modules folder is often excluded when it is intended to share source code.   
 Is that a problem? No, because the dependencies of the code will be listed in package.json file. 
