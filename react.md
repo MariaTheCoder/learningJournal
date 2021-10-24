@@ -14,3 +14,5 @@ Today I got a bit further with my studies on using react. Today's goal was to wa
 
 Since my last update, I have been working on improving my skills with React. Much of my time has been spent on doing a project that is not posted on Github but in Gitlab, while the rest of my studies have mainly been through YouTube videos and smaller exercises on my local computer, which I did not see fit to upload to GitHub.
 I will try to become better at documenting my progress in React here on Github as well..
+
+The passing week has mostly consisted of react programming as well as resarching the react library of Material UI. I have experimented (and still am experimenting) with the Material UI Components Grid, TextField, CheckBox and customizing these for style purposes
