@@ -8,3 +8,7 @@ So, in order to keep a cronological order of my learning, I will go back to usin
 Today I started and finished the course on basic HTML and also half way through the basic CSS material.
 
 Until I find a better solution to track my progress, I will stick to the Free Code Camp 'classes' while working on personal and group projects.
+
+## January 25th
+
+Today I did more lessons on FreeCodeCamp. I am very close to the final tasks which can qualify me for my first certificate, in responsive web design!
