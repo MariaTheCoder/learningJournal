@@ -12,3 +12,7 @@ Until I find a better solution to track my progress, I will stick to the Free Co
 ## January 25th
 
 Today I did more lessons on FreeCodeCamp. I am very close to the final tasks which can qualify me for my first certificate, in responsive web design!
+
+## January 28th
+
+I finished the curriculum of the "Responsive Web Design" course and started working on the first code challenge to qualify for a certificate. There are minimum requirements to pass the test, however, I try to add my own style to the challenge. I started on it today but did not have time to finish it.
