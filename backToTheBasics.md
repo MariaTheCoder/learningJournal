@@ -9,3 +9,7 @@ Perhaps I can join the project again at a later point once my skills and knowled
 ## February 9th and 10th
 
 These days I've been doing recaps on the very basics of JavaScript by going through the seocond course material on FreeCodeCamp called "Javascript algorithms and data structure"
+
+## March 11th
+
+I have come very far with one of my personal projects which has the goal to imitate a bookkeeping software and some of its functionalities. In essense, it is a CRUD application with additional features such as ability to sort values of data in a grid in decending or ascending order as well as automatic change of credit/debit values depending on which accounts are used when creating an account.
