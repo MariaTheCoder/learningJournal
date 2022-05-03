@@ -91,4 +91,11 @@ I am currently using Google Chrome.
 
 ### In your own words, explain what happens when you run a search on google.com
 
-Imagine that you are using an old fashioned wall mounted telephone without a display or internal memory.
+Imagine that you are using an old fashioned wall mounted telephone without a display or internal memory. We have a user of the phone named Susanna, who wants to call her good friend Ricardo. The phone is the browser, from the previous example. Let us assume that the phone does not have an internal memory so that it won't know any phone numbers beforehand. The user of the phone, Susanna, has the role of the resolving name server from the previous example.
+
+1. If neither the phone nor Susanna know which number to call to get in contact with Ricardo, Susanna has to go on a search to find out which number to call to get a hold on him.
+1. Susanna may start by asking people close by, such as family members, if they know Ricardo's household number. If no one knows, she can ask friends who she does have the phone numbers of.
+1. If that does not work, Susanna can look up in the printed phone book which is handed out to locals.
+1. In case she does not find it, maybe because she does not know which family is Richardo's - as in she does not know the name of his parents - or perhaps they do not show up in the phone book at all. It could also be that she does not know his last name or how it is spelled. Either way, she has to figure out a new plan.
+1. Susanna can also call the call center and request to get connected to Ricardo's house hold. This will however only work if she has SOME information on him that she can pass, such as address, family name etc.
+1. In case she does not know these information, the easiest way to get a hold on Ricardo's household number is to ask him personally.
