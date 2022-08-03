@@ -16,3 +16,7 @@ Today I did more lessons on FreeCodeCamp. I am very close to the final tasks whi
 ## January 28th
 
 I finished the curriculum of the "Responsive Web Design" course and started working on the first code challenge to qualify for a certificate. There are minimum requirements to pass the test, however, I try to add my own style to the challenge. I started on it today but did not have time to finish it.
+
+## August 3rd
+
+Today I had very little time to study and therefore I chose to go to FreeCodeCamp and complete a few exercises before bedtime. This exercise is about building a balance sheet.
