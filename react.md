@@ -1,3 +1,9 @@
+# September 2022 
+
+## 8th
+
+Today I worked on a react project and experimented with how to update states 'onChange' in an object in React Hook. 
+
 # September 2021
 
 ## 5
