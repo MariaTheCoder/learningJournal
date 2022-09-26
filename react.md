@@ -1,8 +1,12 @@
-# September 2022 
+# September 2022
+
+## 27th
+
+Today I worked on my React sandbox to experiment with conditional rendering.
 
 ## 8th
 
-Today I worked on a react project and experimented with how to update states 'onChange' in an object in React Hook. 
+Today I worked on a react project and experimented with how to update states 'onChange' in an object in React Hook.
 
 # September 2021
 
