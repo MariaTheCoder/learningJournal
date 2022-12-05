@@ -17,3 +17,6 @@ I read the material on the website but then went to YouTube for alternative expl
 ## November 28th
 
 Today I brushed up on C as i follow along the CS50 class from Harvard Univerity on YouTube. 
+
+## December 5th
+Today I finished the first lecture of CS50 on C, and discussed a few topics from the end of the course. These topics include bits, how the computer knows from which character a bit starts and ends, how to tell characters from numbers etc. I also read up on floating point imprecision
