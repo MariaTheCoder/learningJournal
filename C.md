@@ -20,3 +20,6 @@ Today I brushed up on C as i follow along the CS50 class from Harvard Univerity 
 
 ## December 5th
 Today I finished the first lecture of CS50 on C, and discussed a few topics from the end of the course. These topics include bits, how the computer knows from which character a bit starts and ends, how to tell characters from numbers etc. I also read up on floating point imprecision
+
+## December 16th
+Today I learned about what commands are being executed behind the curtains when the command 'make' is being called. 
